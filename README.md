@@ -16,7 +16,7 @@ Build a regression model to predict Airbnb listing prices based on property feat
 - Model performance evaluation using R², MAE, and RMSE  
 
 **Notebook:**  
-📄 [Airbnb_Price_Prediction.ipynb](./Airbnb_Price_Prediction.ipynb)
+📄 [Airbnb_Price_Prediction.ipynb](https://colab.research.google.com/drive/1y-L1Ofe-6u75FQm52zmj1JI4sAfM2wuJ?usp=sharing)
 
 ---
 
@@ -31,7 +31,7 @@ Develop a classification model to predict customer churn and help telecom compan
 - Performance metrics — Accuracy, Precision, Recall, F1-score  
 
 **Notebook:**  
-📄 [Telecom_Churn_Prediction.ipynb](./Telecom_Churn_Prediction.ipynb)
+📄 [Telecom_Churn_Prediction.ipynb](https://colab.research.google.com/drive/133nIm2-EJ6QCdR51JXH77jokiB1-2D3O?usp=sharing)
 
 ---
 
